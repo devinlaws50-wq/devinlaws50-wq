@@ -1,4 +1,4 @@
-# 👋 Hi — I’m Devin Laws | Future Cloud Security Professional ☁️🔐
+# 🤚🏽 Hi — I’m Devin Laws | Future Cloud Security Professional ☁️🔐
 
 I’m an operations leader transitioning into **IT Support and Cloud Security**, combining 25+ years of high-pressure incident response experience with hands-on AWS cloud security labs and identity management practice.
 
@@ -19,7 +19,7 @@ My strength is translating real-world operational problem solving into technical
 ## 🚀 Featured Hands-On Cloud Security Labs
 
 ### ☁️ AWS Cloud Security Portfolio
-👉 **GitHub Repo:**  
+👉🏽 **GitHub Repo:**  
 https://github.com/devinlaws50-wq/cyber-notes
 
 Built and documented real-world cloud security concepts including:
@@ -88,7 +88,7 @@ I’m currently building real hands-on experience daily through:
 
 ---
 
-## 🤝 Let’s Connect
+## 🫱🏼‍🫲🏿 Let’s Connect
 
 💼 LinkedIn:  
 https://www.linkedin.com/in/dlaws2030
