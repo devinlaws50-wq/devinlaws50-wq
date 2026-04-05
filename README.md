@@ -1,102 +1,70 @@
-# 🤚🏽 Hi — I’m Devin Laws | Future Cloud Security Professional ☁️🔐
+# Devin Laws
+### Help Desk Analyst · CompTIA Security+ · Cloud Security Learner
 
-I’m an operations leader transitioning into **IT Support and Cloud Security**, combining 25+ years of high-pressure incident response experience with hands-on AWS cloud security labs and identity management practice.
+> Resolving 40+ incidents a day while building toward a cloud security career — one lab at a time.
 
-I’m currently focused on landing an **IT Support / Helpdesk role** while actively building toward a long-term career in **Cloud Security and Cybersecurity**.
-
----
-
-## 🎯 Current Career Focus
-
-✔ Entry-Level IT Support / Helpdesk  
-✔ Cloud Support Engineer (Future Goal)  
-✔ Cloud Security Career Path  
-
-My strength is translating real-world operational problem solving into technical troubleshooting, documentation, and secure system management.
+![CompTIA Security+](https://img.shields.io/badge/CompTIA-Security%2B-red?style=flat-square&logo=comptia&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft-Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/Amazon-AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![ServiceNow](https://img.shields.io/badge/ServiceNow-ITSM-00A98F?style=flat-square&logo=servicenow&logoColor=white)
 
 ---
 
-## 🚀 Featured Hands-On Cloud Security Labs
+## 👤 About Me
 
-### ☁️ AWS Cloud Security Portfolio
-👉🏽 **GitHub Repo:**  
-https://github.com/devinlaws50-wq/cyber-notes
+I'm a Help Desk Analyst with hands-on experience resolving tier 1 and tier 2 incidents daily — account lockouts, password resets, Active Directory provisioning, remote desktop issues, and more — all within ServiceNow ITSM while meeting SLA targets. I hold the **CompTIA Security+** certification and I'm actively building cloud and infrastructure skills through structured labs in AWS and Azure.
 
-Built and documented real-world cloud security concepts including:
-
-• IAM least-privilege user and role design  
-• Secure VPC architecture with public/private subnets  
-• Security group firewall configuration  
-• EC2 deployment & network isolation  
-• CloudTrail activity monitoring & identity auditing  
+My goal is to grow into a cloud security or cybersecurity role. Right now I'm open to **remote Help Desk, IT Support Engineer, Systems Administrator, and ServiceNow Admin** opportunities in Florida.
 
 ---
 
-### 🖥️ Active Directory in AWS (Identity Management Lab)
+## 🛠 Skills & Tools
 
-• Deployed Windows Server Domain Controller in AWS  
-• Installed Active Directory Domain Services  
-• Created users, groups, and organizational units  
-• Practiced password resets and access control workflows  
-• Simulated real helpdesk identity management scenarios  
-
----
-
-### 🎫 ServiceNow Helpdesk Incident Simulations
-
-Practicing real IT support workflows including:
-
-• Account lockouts & password resets  
-• User access troubleshooting  
-• Incident documentation and escalation  
-• Ticket prioritization and lifecycle management  
+| Category | Technologies |
+|---|---|
+| **Support & Ticketing** | ServiceNow ITSM, Remote Desktop (RDP), Incident Management |
+| **Identity & Access** | Active Directory, Azure AD / Entra ID, AWS IAM, Group Policy |
+| **Scripting & Automation** | PowerShell, Terraform (HCL), Bash |
+| **Cloud Platforms** | Microsoft Azure, Amazon AWS |
+| **OS & Infrastructure** | Windows Server 2022, Windows 10/11, Linux (Debian, Arch) |
+| **Security** | CompTIA Security+, Azure Key Vault, NSGs, IAM Policies |
 
 ---
 
-## 🛠️ Technical Skills
+## 🔐 Featured Project — Cloud Security Labs
 
-### ☁️ Cloud Security
-• AWS EC2, IAM, VPC, CloudTrail  
-• Identity & Access Management  
-• Least-Privilege Security Design  
-• Network Security Fundamentals  
+8 weeks of real, hands-on labs building from cloud fundamentals up through infrastructure-as-code:
 
-### 🖥️ IT Support & Identity
-• Active Directory Administration  
-• Windows Server Management  
-• ServiceNow Incident Management  
-• Technical Troubleshooting  
+| Week | Topic |
+|---|---|
+| 1 | Cloud Fundamentals — AWS S3, EC2, regions & AZs |
+| 2 | Identity & Access Management — IAM users, roles, least-privilege policies |
+| 3 | VPC Networking — subnets, route tables, internet gateway, security groups |
+| 4 | Active Directory — OUs, GPOs, user & group management on Windows Server |
+| 5 | Azure Static Website — Blob Storage, public access, static site hosting |
+| 6 | Azure 2-Tier Architecture — VNet, NSGs, Apache, SSH |
+| 7 | Azure Key Vault & Managed Identity — secret management, zero-trust |
+| 8 | Terraform on Azure — IaC, resource groups, VMs, reusable modules |
 
-### 💻 Tools
-• Git / GitHub  
-• VS Code  
-• macOS & Windows  
-• Remote Desktop (RDP)  
+📁 [View the full repo →](https://github.com/devinlaws50-wq/cyber-notes)
 
 ---
 
-## 🎯 Career Direction
+## 📌 Currently Working On
 
-My long-term goal is to become a **Cloud Security Engineer**, protecting cloud environments through identity security, network architecture, and threat detection.
-
-I’m currently building real hands-on experience daily through:
-
-• AWS Labs  
-• Active Directory Practice  
-• ServiceNow Simulations  
-• Security Documentation Projects  
+- Preparing for the **ServiceNow Certified System Administrator (CSA)** exam
+- Expanding Azure labs into: Microsoft Defender for Cloud, Sentinel (SIEM), and Azure Policy
+- Building foundational SOC and detection engineering knowledge
 
 ---
 
-## 🫱🏼‍🫲🏿 Let’s Connect
+## 🤝 Connect
 
-💼 LinkedIn:  
-https://www.linkedin.com/in/dlaws2030
-
-📧 Email:  
-devinlaws50@gmail.com  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-dlaws2030-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dlaws2030)
+[![Email](https://img.shields.io/badge/Email-devinlaws50%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:devinlaws50@gmail.com)
 
 ---
 
-⭐ Always learning. Always building. Always securing.
--->
+*Always learning. Always building.*
