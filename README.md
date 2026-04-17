@@ -35,7 +35,7 @@ My goal is to grow into a cloud security or cybersecurity role. Right now I'm op
 
 ## 🔐 Featured Project — Cloud Security Labs
 
-8 weeks of real, hands-on labs building from cloud fundamentals up through infrastructure-as-code:
+Ongoing, hands-on labs building from cloud fundamentals up through infrastructure-as-code:
 
 | Week | Topic |
 |---|---|
