@@ -14,9 +14,11 @@
 
 ## 👤 About Me
 
-I'm a Help Desk Analyst with hands-on experience resolving tier 1 and tier 2 incidents daily — account lockouts, password resets, Active Directory provisioning, remote desktop issues, and more — all within ServiceNow ITSM while meeting SLA targets. I hold the **CompTIA Security+** certification and I'm actively building cloud and infrastructure skills through structured labs in AWS and Azure.
+I'm an IT professional with real-world experience handling tier 1 and tier 2 support — account provisioning, Active Directory management, remote desktop troubleshooting, and incident resolution through ServiceNow ITSM, all while hitting SLA targets daily.
 
-My goal is to grow into a cloud security or cybersecurity role. Right now I'm open to **remote Help Desk, IT Support Engineer, Systems Administrator, and ServiceNow Admin** opportunities in Florida.
+Beyond the help desk, I build and run my own cloud lab environments in AWS and Azure — deploying infrastructure, configuring secure VPC networking, managing identity and access policies, and automating with Terraform. These aren't tutorials; they're environments I've built, broken, and rebuilt to understand how things actually work.
+
+I'm now targeting Systems Administration and Jr. Cloud Security roles, where I can bring that operational instinct together with the infrastructure skills I've been building. If you need someone who can keep systems running and understands the security layer underneath — let's connect.
 
 ---
 
