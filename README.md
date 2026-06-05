@@ -1,5 +1,5 @@
 # Devin Laws
-### Systems Administrator · Cloud Security Engineering · Miami, FL
+### Systems Administrator · Cloud Security Engineering · Hollywood, FL
 
 > Building production-grade cloud security environments across Azure, Terraform, Microsoft Sentinel, and Active Directory.
 
