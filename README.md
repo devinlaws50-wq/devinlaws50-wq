@@ -1,75 +1,121 @@
 # Devin Laws
-### Systems Administrator · Cloud Security Engineering · Hollywood, FL
 
-> Building production-grade cloud security environments across Azure, Terraform, Microsoft Sentinel, and Active Directory.
+### Systems Administrator | Cloud Infrastructure & Security
 
-![CompTIA Security+](https://img.shields.io/badge/CompTIA-Security%2B-red?style=flat-square&logo=comptia&logoColor=white)
-![Azure](https://img.shields.io/badge/Microsoft-Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![Microsoft Sentinel](https://img.shields.io/badge/Microsoft-Sentinel-5E5ADB?style=flat-square&logo=microsoft&logoColor=white)
-![Splunk](https://img.shields.io/badge/Splunk-SIEM-68C200?style=flat-square&logo=splunk&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
-![Windows Server](https://img.shields.io/badge/Windows-Server%202022-0078D6?style=flat-square&logo=windows&logoColor=white)
+Hollywood, Florida
+[LinkedIn](https://www.linkedin.com/in/dlaws2030)
+
+> Building secure, automated cloud infrastructure across Azure, Terraform, Active Directory, Microsoft Sentinel, Splunk, and Windows Server.
 
 ---
 
-## 👤 About Me
+## About Me
 
-I'm a Systems Administrator building toward Cloud Security Engineering. I design and run hands-on lab environments in Azure and AWS — deploying infrastructure with Terraform, configuring SIEM detection with Microsoft Sentinel and Splunk, managing identity with Active Directory and Entra ID, and hardening Windows Server environments with Group Policy. These aren't tutorials; they're production-style environments I've built, broken, and rebuilt to understand how real security controls work.
+I am a Systems Administrator focused on cloud infrastructure, automation, and security engineering.
 
-I hold CompTIA Security+ and am actively building toward AZ-500 and SC-200. I'm targeting Systems Administration and Cloud Security Engineer roles where I can apply both the operational instinct and the security engineering skills I've developed. If you need someone who understands the infrastructure layer *and* the security layer — let's connect.
+My portfolio documents hands-on environments built across Microsoft Azure and AWS, with an emphasis on secure infrastructure design, Infrastructure as Code, identity administration, Windows systems, SIEM monitoring, and cloud governance.
 
----
+I use Terraform to build repeatable infrastructure, Active Directory and Group Policy to manage Windows identity and security controls, and Microsoft Sentinel and Splunk to investigate authentication activity and develop security-monitoring workflows.
 
-## 🛠 Skills & Tools
+Each project documents the architecture, implementation process, security decisions, troubleshooting, validation, and operational considerations involved in building the environment.
 
-| Category | Technologies |
-|---|---|
-| **Cloud Platforms** | Microsoft Azure, Amazon AWS |
-| **SIEM & Monitoring** | Microsoft Sentinel, Splunk Enterprise, KQL, SPL, Log Analytics, Azure Monitor |
-| **Identity & Access** | Active Directory, Microsoft Entra ID, AWS IAM, Azure Key Vault, RBAC, Group Policy |
-| **Infrastructure as Code** | Terraform (HCL), Azure CLI |
-| **Scripting & Automation** | PowerShell, Bash |
-| **OS & Infrastructure** | Windows Server 2022, Ubuntu Server, Windows 10/11 |
-| **Network Security** | VPC/VNet design, NSGs, Security Groups, subnet segmentation |
-| **Governance & Compliance** | Azure Policy, Cost Management, RBAC scoping, landing zone design |
+### Current Focus
 
----
-
-## 🔐 Cloud Security Labs — 16 Weeks
-
-Hands-on labs from cloud fundamentals through detection engineering, Windows hardening, and Terraform IaC:
-
-| # | Lab | Platform | Highlights |
-|---|-----|----------|------------|
-| 14 | [Azure Sentinel Threat Detection](https://github.com/devinlaws50-wq/cyber-notes/tree/main/week-14-azure-sentinel-landing-zone) | Azure + Terraform + KQL | SIEM onboarding, KQL brute force detection, scheduled analytics rule |
-| 12 | [Linux SIEM Monitoring with Splunk](https://github.com/devinlaws50-wq/cyber-notes/tree/main/week-12-splunk-siem-log-analysis) | Azure + Splunk | SOC dashboard, auth log ingestion, SPL queries |
-| 15 | [Windows Server GPO Hardening](https://github.com/devinlaws50-wq/cyber-notes/tree/main/week-15-windows-server-gpo-hardening) | Azure + Windows Server | AD forest, GPO password/lockout policy, Restricted Groups, validation |
-| 13 | [Azure Landing Zone with Terraform](https://github.com/devinlaws50-wq/cyber-notes/tree/main/week-13-azure-landing-zone) | Azure + Terraform | Segmented IaC, NSG controls, Log Analytics integration |
-| 11 | [Azure Governance & Security Hardening](https://github.com/devinlaws50-wq/cyber-notes/tree/main/week-11-azure-governance) | Azure | RBAC scoping, Azure Policy enforcement, cost management |
-| 16 | [Windows File Server & Access Control](https://github.com/devinlaws50-wq/cyber-notes/tree/main/week-16-windows-file-server-access-control) | Windows Server + AD | SMB shares, NTFS + share permissions, AD group RBAC, audit logging |
-| 10 | [Azure AD Domain Controller via Terraform](https://github.com/devinlaws50-wq/cyber-notes/tree/main/week-10-azure-ad-domain-controller-terraform) | Azure + Terraform | Automated AD DS deployment, Custom Script Extension, DNS |
-| 8 | [Azure Key Vault + Managed Identity](https://github.com/devinlaws50-wq/cyber-notes/tree/main/week-08-azure-keyvault-identity) | Azure | Key Vault, Managed Identity, zero-trust access patterns |
-| 3 | [AWS VPC & Network Security](https://github.com/devinlaws50-wq/cyber-notes/tree/main/week-03-vpc-networking) | AWS | VPC design, public/private subnets, security groups |
-| 1–9 | [Earlier Labs](https://github.com/devinlaws50-wq/cyber-notes) | AWS / Azure | Cloud fundamentals, IAM, networking, IaC foundations |
-
-📁 [View full portfolio with capability map →](https://github.com/devinlaws50-wq/cyber-notes)
+* Azure infrastructure and network security
+* Infrastructure as Code with Terraform
+* Active Directory and Windows Server administration
+* Microsoft Sentinel and KQL detection engineering
+* Splunk SIEM and SPL-based log analysis
+* Azure governance, RBAC, and policy enforcement
+* Cloud automation and CI/CD
+* Infrastructure security validation
 
 ---
 
-## 📌 Currently Building
+## Featured Projects
 
-- Extending Sentinel detection coverage with Watchlists and Workbooks
-- Adding CI/CD pipelines for Terraform deployments (GitHub Actions)
-- Preparing for **AZ-500** (Azure Security Engineer Associate) and **SC-200** (Security Operations Analyst)
+| Project                                                                                                                | Focus                                                                                       | Key Technologies                                  |
+| ---------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- | ------------------------------------------------- |
+| [Azure Hub-and-Spoke Firewall Architecture](https://github.com/devinlaws50-wq/terraform-azure-hub-spoke-firewall)      | Centralized network security, traffic inspection, forced routing, and workload segmentation | Azure Firewall, Terraform, VNets, UDRs, Bastion   |
+| [Azure Landing Zone with Terraform](https://github.com/devinlaws50-wq/terraform-azure-landing-zone)                    | Segmented cloud foundation with networking, policy, monitoring, and SSH-secured workloads   | Terraform, Azure Policy, NSGs, Log Analytics      |
+| [Microsoft Sentinel Security Monitoring](https://github.com/devinlaws50-wq/azure-sentinel-security-monitoring)         | Linux Syslog ingestion, KQL hunting, authentication correlation, and scheduled detection    | Microsoft Sentinel, KQL, Log Analytics, Terraform |
+| [Windows Server Domain Controller with Terraform](https://github.com/devinlaws50-wq/terraform-azure-domain-controller) | Automated Windows Server and Active Directory Domain Services deployment                    | Terraform, Azure, Windows Server, AD DS, DNS      |
+| [Windows Server GPO Hardening](https://github.com/devinlaws50-wq/windows-server-gpo-hardening)                         | Centralized Windows security policy, privileged-access control, and domain hardening        | Active Directory, Group Policy, Windows Server    |
+| [Splunk Linux Security Monitoring](https://github.com/devinlaws50-wq/splunk-linux-security-monitoring)                 | Authentication monitoring, failed-login detection, privileged activity, and SOC dashboards  | Splunk Enterprise, SPL, Linux, Azure              |
+| [Windows File Server Access Control](https://github.com/devinlaws50-wq/windows-file-server-access-control)             | Least-privilege SMB access using AD groups, share permissions, and NTFS ACLs                | Windows Server, Active Directory, SMB, NTFS       |
+| [Azure Governance and RBAC](https://github.com/devinlaws50-wq/azure-governance-rbac-policy)                            | Least-privilege access, Azure Policy enforcement, and cost governance                       | Azure RBAC, Azure Policy, Entra ID                |
+| [Azure Infrastructure Stack](https://github.com/devinlaws50-wq/terraform-azure-infrastructure-stack)                   | Reusable Azure infrastructure deployment with Terraform                                     | Terraform, AzureRM, Networking, Compute           |
+| [Cloud Security Foundations Archive](https://github.com/devinlaws50-wq/cyber-notes)                                    | Foundational AWS, Azure, networking, identity, and security labs                            | AWS, Azure, IAM, Wireshark, Key Vault             |
 
 ---
 
-## 🤝 Connect
+## Technical Skills
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-dlaws2030-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dlaws2030)
-[![Email](https://img.shields.io/badge/Email-devinlaws50%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:devinlaws50@gmail.com)
+| Category               | Technologies                                                                  |
+| ---------------------- | ----------------------------------------------------------------------------- |
+| Cloud Platforms        | Microsoft Azure, Amazon Web Services                                          |
+| Infrastructure as Code | Terraform, HCL, AzureRM Provider                                              |
+| Identity and Access    | Active Directory, Microsoft Entra ID, Azure RBAC, AWS IAM, Group Policy       |
+| SIEM and Monitoring    | Microsoft Sentinel, Splunk Enterprise, KQL, SPL, Log Analytics, Azure Monitor |
+| Windows Infrastructure | Windows Server 2022, AD DS, DNS, GPO, SMB, NTFS permissions                   |
+| Linux                  | Ubuntu Server, SSH, Syslog, authentication-log analysis                       |
+| Networking             | VNets, VPCs, subnets, NSGs, security groups, routing, Azure Firewall          |
+| Scripting and Tools    | PowerShell, Bash, Azure CLI, Git, GitHub                                      |
+| CI/CD                  | GitHub Actions, automated Terraform formatting and validation                 |
+| Governance             | Azure Policy, cost-management budgets, RBAC scoping, landing-zone design      |
 
 ---
 
-*16 labs and counting. Always building.*
+## What My Projects Demonstrate
+
+* Designing segmented Azure network architectures
+* Deploying repeatable cloud infrastructure through Terraform
+* Automating Terraform validation with GitHub Actions
+* Applying least-privilege identity and access controls
+* Building and administering Active Directory environments
+* Hardening Windows systems with Group Policy
+* Managing local administrator access centrally
+* Building Microsoft Sentinel detections with KQL
+* Analyzing Linux authentication events with Splunk and SPL
+* Managing SMB and NTFS permissions through Active Directory groups
+* Implementing Azure governance with RBAC and Policy
+* Validating deployments through logs, screenshots, CLI output, and functional testing
+* Troubleshooting cloud, identity, networking, and security-control failures
+* Applying secure repository and credential-handling practices
+
+---
+
+## Infrastructure Validation & CI
+
+Several Terraform projects include GitHub Actions workflows that automatically run:
+
+```text
+terraform fmt -check -recursive
+terraform init -backend=false
+terraform validate
+```
+
+on pushes to `main` and pull requests.
+
+These pipelines validate formatting and Terraform configuration without deploying cloud resources or requiring Azure credentials.
+
+---
+
+## Currently Building
+
+* Additional Microsoft Sentinel detection and investigation use cases
+* Azure infrastructure automation and governance projects
+* Expanded detection engineering with KQL and SPL
+* Penetration-testing lab using Kali Linux and DVWA
+* Additional CI/CD and Infrastructure as Code security controls
+* Continued development toward cloud infrastructure and security engineering roles
+
+---
+
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/dlaws2030)
+
+---
+
+*This portfolio is continuously updated as new cloud infrastructure, automation, administration, and security projects are completed.*
